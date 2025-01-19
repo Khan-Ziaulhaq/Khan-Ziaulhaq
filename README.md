@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm [Your Name], a passionate front-end developer with a strong focus on design and user experience. I specialize in building responsive, visually stunning websites and applications. With expertise in modern frameworks and a commitment to writing clean, maintainable code, I strive to create seamless, high-performance digital experiences across all platforms.
+Hi, I'm KHAN ZIAULHAQ, a passionate front-end developer with a strong focus on design and user experience. I specialize in building responsive, visually stunning websites and applications. With expertise in modern frameworks and a commitment to writing clean, maintainable code, I strive to create seamless, high-performance digital experiences across all platforms.
 
 ---
 
